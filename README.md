@@ -11,7 +11,5 @@ git clone https://github.com/Clivey1234/Comfy-URN-Arcade-Games.git
 
 No Requirements needed
 
-[![Watch the video](https://github.com/Clivey1234/comfyui-3DVideoEffects/blob/main/title.png)](https://youtu.be/UVPfumLTngk)
 
-### [Watch this tutorial on YouTube](https://youtu.be/UVPfumLTngk)
 
