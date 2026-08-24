@@ -11,5 +11,5 @@ git clone https://github.com/Clivey1234/Comfy-URN-Arcade-Games.git
 
 No Requirements needed
 
-<img width="1566" height="1173" alt="image" src="https://github.com/user-attachments/assets/8a7a3275-65bc-4df6-a225-e7a40282792e" />
+<img width="1240" height="973" alt="image" src="https://github.com/user-attachments/assets/b3c7f8f3-fffb-4ba1-b5ae-d8343e876191" />
 
