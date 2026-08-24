@@ -1,14 +1,8 @@
 # Comfy-URN-Arcade-Games
 A variety of custom ComfyUI nodes that allow you to play 5 arcade classics while waiting for the workflow to finish
+ These run as standalone of the confu canvas so no need to connect to an exisiting node. Just drop it into your worflow and you can play a game while you wait, no need to leave confy
 
-# 3D Video effects for Comfyui
-Convert videos to 3D Anaglyph, 3D Pop, Pulfrich, SBS VR
-
-These nodes enabled you to convert videos and images to different 3D effects.
-
-Please watch the tutorial below, as it informs you what all the settings are.
-
-
+ 
 **Install**
 
 CMD into your ComfyUI\custom_nodes folder
