@@ -8,17 +8,9 @@ These run as standalone of the confu canvas so no need to connect to an exisitin
 
 **Games are:**
 
-Space Invaders
+Space Invaders,  PacMan,  Missle Command,  Frogger,  Lunar Lander
 
-PacMan
-
-Missle Command
-
-Frogger
-
-Lunar Lander
-
-
+Keys are CURSOR Keys and SPACE to fire
  
 **Install**
 
