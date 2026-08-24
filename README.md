@@ -5,12 +5,19 @@ These run as standalone of the confu canvas so no need to connect to an exisitin
 
 <img width="1240" height="973" alt="image" src="https://github.com/user-attachments/assets/b3c7f8f3-fffb-4ba1-b5ae-d8343e876191" />
 
+
 **Games are:**
+
 Space Invaders
+
 PacMan
+
 Missle Command
+
 Frogger
+
 Lunar Lander
+
 
  
 **Install**
