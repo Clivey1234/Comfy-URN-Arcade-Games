@@ -6,7 +6,8 @@ These run as standalone on the confy canvas so no need to connect to an exisitin
 Just drop the game into your worflow and you can play a game while you wait, no need to leave confy
 
 
-<img width="1235" height="991" alt="image" src="https://github.com/user-attachments/assets/d8f5aa6f-1fb6-41ab-97bf-e61fb8deef8b" />
+<img width="1443" height="1103" alt="image" src="https://github.com/user-attachments/assets/84300236-e286-44b4-b217-ea04ca868a36" />
+
 
 
 **Games are:**
